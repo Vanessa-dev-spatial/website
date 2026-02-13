@@ -10,7 +10,7 @@ const gifs = [
     "https://media.tenor.com/1QTB9AnN7RQAAAAi/peach-goma.gif",       // sad cat 2
     "https://media.tenor.com/P285-2vH5FYAAAAi/alone-lonely.gif",       // sad cat 3
     "https://media1.tenor.com/m/iEXbs40PJrYAAAAC/heart-broken-broken-heart.gif",       // even sadder
-    "https://media1.tenor.com/m/Wc5VsDidMswAAAAC/baby-peach-baby.gif"        // crying cat
+    "https://github.com/user-attachments/assets/4678c7c0-3eae-4030-96cd-d81d4aa525f1"        // crying cat
 ]
 
 //array of messages
