@@ -10,10 +10,6 @@ body {
     flex-direction: row;
 }
 
-#cat-gif {
-    clip-path: inset(80px 0 0 0);
-}
-
 
 /*Alternative
 body {
