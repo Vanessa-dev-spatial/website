@@ -22,7 +22,7 @@ const buttonMessages = [
     "You're breaking my heart! 💔"
 ]
 
-const happyGif = "https://github.com/user-attachments/assets/0b1c8afd-cd8d-4ce9-8b54-606b88bbc864" // happy cat
+const happyGif = "https://media1.tenor.com/m/lpb4bYfU-HgAAAAd/shake-cat.gif" // happy cat
 
 let noClickCount = 0
 
