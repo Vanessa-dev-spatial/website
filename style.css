@@ -10,7 +10,17 @@ body {
     flex-direction: row;
 }
 
-
+#cat-gif {
+    width: 300px;
+    height: auto;
+    margin-bottom: 30px;
+    border-radius: 20px;
+    
+    /* Crop the top of the image */
+    object-fit: cover;
+    object-position: center bottom;  /* Shows bottom portion, cuts top */
+    height: 250px;  /* Set a fixed height */
+}
 
 /*Alternative
 body {
