@@ -1,0 +1,28 @@
+body {
+    display: flex; 
+    flex-direction: column;
+    align-items: center; /*horizontal centering*/
+    justify-content: center; /*vertical centering*/
+    height: 100vh
+}
+
+.buttons {
+    flex-direction: row;
+}
+
+
+
+/*Alternative
+body {
+    display: grid; 
+    place-items: center;
+    height: 100vh;
+    margin: 0;
+}
+
+div {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+*/
